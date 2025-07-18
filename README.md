@@ -1,4 +1,4 @@
-# Grocery Recommendation App
+# Grocery Recommendation App(dummy)
 
 This project is a Flask application that tracks your household grocery items and generates recommendations for the next month's shopping list based on user feedback.
 
