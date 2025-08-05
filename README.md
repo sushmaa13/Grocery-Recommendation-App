@@ -1,4 +1,4 @@
-# Grocery Recommendation App(dummy)
+# Grocery Recommendation App(prototype)
 
 This project is a Flask application that tracks your household grocery items and generates recommendations for the next month's shopping list based on user feedback.
 
@@ -17,3 +17,4 @@ This project is a Flask application that tracks your household grocery items and
 - Flask
 - pandas
 - sqlite3 (built-in with Python)
+
